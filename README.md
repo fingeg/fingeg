@@ -1,16 +1,16 @@
-### Hi there 👋
+### A little overview about me:
+📍 I am currently a student at the Viktoriaschule Aachen (Germany)
 
-<!--
-**fingeg/fingeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 Some of my references:
+<table>
+    <tr>
+        <td><img src="viktoriaapp.png" height=100px></td>
+        <td> <a url="https://github.com/Viktoriaschule">ViktoriaApp</a>
+         </td>
+    </tr>
+    <tr>
+        <td><img src="doxygenComments.png" height=100px></td>
+        <td> <a url="https://marketplace.visualstudio.com/items?itemName=FinnGegenmantel.doxygenComments">DoxygenComments</a>
+         </td>
+    </tr>
+</table>
