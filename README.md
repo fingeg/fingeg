@@ -1,5 +1,5 @@
 ### A little overview about me:
-📍 I am currently a student at the Viktoriaschule Aachen (Germany)
+📍 I am currently a student at the University of New Mexico (NM, USA)
 
 👤 Some of my references:
 <table>
