@@ -34,7 +34,7 @@
 
 
 ## Some of my references
-| <img src="https://raw.githubusercontent.com/fingeg/fingeg/master/doxygenComments.png" height=100px> | [DoxygenComments](https://marketplace.visualstudio.com/items?itemName=FinnGegenmantel.doxygenComments) | [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/FinnGegenmantel.doxygenComments.svg)](https://marketplace.visualstudio.com/items?itemName=aperricone.harbour) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/FinnGegenmantel.doxygenComments.svg)](https://marketplace.visualstudio.com/items?itemName=aperricone.harbour)|
+| <img src="https://raw.githubusercontent.com/fingeg/fingeg/master/doxygenComments.png" height=100px> | [DoxygenComments](https://marketplace.visualstudio.com/items?itemName=FinnGegenmantel.doxygenComments) | [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/FinnGegenmantel.doxygenComments.svg)](https://marketplace.visualstudio.com/items?itemName=FinnGegenmantel.doxygenComments) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/FinnGegenmantel.doxygenComments.svg)](https://marketplace.visualstudio.com/items?itemName=FinnGegenmantel.doxygenComments)|
 |--|--|--|
 | <img src="https://raw.githubusercontent.com/fingeg/fingeg/master/viktoriaapp.png" height=100px> | [ViktoriaApp](https://github.com/Viktoriaschule) | archived |
 
