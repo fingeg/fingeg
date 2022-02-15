@@ -34,17 +34,8 @@
 
 
 ## Some of my references
-<table>
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/fingeg/fingeg/master/viktoriaapp.png" height=100px></td>
-        <td> <a href="https://github.com/Viktoriaschule" target="_blank">ViktoriaApp</a>
-         </td>
-    </tr>
-    <tr>
-        <td><img src="https://raw.githubusercontent.com/fingeg/fingeg/master/doxygenComments.png" height=100px></td>
-        <td> <a href="https://marketplace.visualstudio.com/items?itemName=FinnGegenmantel.doxygenComments" target="_blank">DoxygenComments</a>
-         </td>
-    </tr>
-</table>
+| <img src="https://raw.githubusercontent.com/fingeg/fingeg/master/doxygenComments.png" height=100px> | [DoxygenComments](https://marketplace.visualstudio.com/items?itemName=FinnGegenmantel.doxygenComments) | [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/FinnGegenmantel.doxygenComments.svg)](https://marketplace.visualstudio.com/items?itemName=aperricone.harbour) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-star/FinnGegenmantel.doxygenComments.svg)](https://marketplace.visualstudio.com/items?itemName=aperricone.harbour)|
+|--|--|--|
+| <img src="https://raw.githubusercontent.com/fingeg/fingeg/master/viktoriaapp.png" height=100px> | [ViktoriaApp](https://github.com/Viktoriaschule) | archived |
 
 Feel free to use anything from this file to help you create/edit your own profile!
