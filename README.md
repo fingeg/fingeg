@@ -8,9 +8,9 @@
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fingeg&count_private=true&layout=compact&theme=dark&langs_count=5)
 
 ## Current occupation
-- Currently a Computer Engineering student (bachelor) at the University of New Mexico (NM, USA)
+- Currently a Computer Engineering student (bachelor) at RWTH Aachen (Germany)
 
-- Working as a software developer at the Bureau of Business & Economic Research (UNM BBER) (NM, USA)
+- Working as a software engineer with embedded and HMI systems
 
 ## Some of my skills
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
