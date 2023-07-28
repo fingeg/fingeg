@@ -3,7 +3,7 @@
 [![Repos](https://badges.pufler.dev/repos/fingeg)](https://github.com/Fviramontes8?tab=repositories)
 [![](https://komarev.com/ghpvc/?username=fingeg&color=brightgreen)](https://github.com/fingeg)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fingeg&show_icons=true&theme=dark&hide=issues)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fingeg&show_icons=true&theme=dark&hide=issues) -->
 
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fingeg&count_private=true&layout=compact&theme=dark&langs_count=5)
 
