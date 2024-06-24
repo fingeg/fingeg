@@ -10,7 +10,8 @@
 ## Current occupation
 - Currently a Computer Engineering student (bachelor) at RWTH Aachen (Germany)
 
-- Working as a software engineer with embedded and HMI systems
+- Working as a software engineer with 3D perception
+- Team Lead for the Attitude Controller of the [AQUIS Satellite](https://www.spaceteamaachen.de/projects/aquis) of the Space Team Aachen
 
 ## Some of my skills
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
