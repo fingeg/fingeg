@@ -18,12 +18,14 @@
 ![](https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
 
+![](https://img.shields.io/badge/MatLab-Simulink-blue)
+
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
